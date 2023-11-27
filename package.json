@@ -1,7 +1,7 @@
 {
   "name": "c1541",
   "version": "0.4.1",
-  "description": "c1541 -- C64 .d64 disk image utility library",
+  "description": "c1541 -- C64 .d64 disk image utility library, updated by wbochar",
   "main": "lib/index.js",
   "bin": {
     "c1541js": "./lib/cli.js"
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nurpax/c1541.git"
+    "url": "git+https://github.com/wbochar/c1541.git"
   },
   "keywords": [],
   "files": [
@@ -24,7 +24,7 @@
   ],
   "author": "Janne Hellsten <jjhellst@gmail.com>",
   "license": "ISC",
-  "homepage": "https://github.com/nurpax/c1541",
+  "homepage": "https://github.com/wbochar/c1541",
   "devDependencies": {
     "@types/jest": "^24.0.9",
     "@types/node": "^11.15.54",
